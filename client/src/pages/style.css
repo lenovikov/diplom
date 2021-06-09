@@ -1,0 +1,23 @@
+.container-tovar{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+
+}
+.options_button {
+    display: flex;
+}
+
+.container-buscet{
+    display: flex;
+    flex-direction: column;
+}
+.buscet-elem {
+    display: flex;
+    flex-direction: row;
+    max-width: 500px;
+    justify-content: space-between;
+}
+.elem-field {
+    padding: 0 20px;
+}

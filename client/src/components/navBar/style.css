@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+.navbar__logo {
+    
+}
+
+.navbar__link {
+
+}
+
+.navbar__basket {
+
+}
+.navbar-link {
+    margin: 0 10px 0 10px;
+}
